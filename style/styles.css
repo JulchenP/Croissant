@@ -7,3 +7,10 @@ a {
   color: #008000;
   margin: 0 10px;
 }
+
+#croissant {
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+  max-width: 100%;
+}
